@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/opa334/Dopamine/releases/download/2.2.2/Dopamine.ipa</string> <!-- رابط ملف IPA الخاص بك -->
+                        <string>https://app.iosgods.com/store/download-ipa/377-minecraft/sideloadly?token=eyJpdiI6ImpLOUdXNTlvaVR5dUZqVkU3VDIxOUE9PSIsInZhbHVlIjoiUEhoRzdjS0hrS2I5RFFDenNxdUZmcXJOZUNCSGNxWjRnZ1AwbG1UZWxHRmhjbERhWVFoQW4wS0pBblNIbm9RMTRLTlJcLzh5d0dNNWlMZndCbzNuYzhCRzJYcTNDMFhqMG5maVN2NlFoWjU4MkwraEE5d0lMb0N2Y2F0MFBJajdlOGkyN0JhZmpucVpZdkllQ3ZsUytuUUNWclRsYkd0UFB6MXA3XC9CNFBSQlF3dUVBblhBd3A5MTRRdUFHVjV3ejkyY3lydVlXRkVTRFppNTJhRU5BeGpQOG1IZmhHWWVEMUdKXC9MZno2OWhCaz0iLCJtYWMiOiJmNzIwOTI1YmQ0NmRiNGU0Yzk1YTZhZDY3YmY5MTg0MWM2OTgyZTkwNzljNWRlNzkxZTk1MDQxNWFhN2JmZDk3In0=</string> <!-- رابط ملف IPA الخاص بك -->
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.opa334.Dopamine</string> <!-- معرف الباندل الخاص بتطبيقك -->
+                    <string>com.mojang.minecraftpe</string> <!-- معرف الباندل الخاص بتطبيقك -->
                     <key>6.0</key>
-                    <string>2.2.2</string> <!-- إصدار التطبيق -->
+                    <string>1.21.51</string> <!-- إصدار التطبيق -->
                     <key>kind</key>
                     <string>software</string>
-                    <key>Dopamine</key>
-                    <string>Dopamine</string> <!-- اسم التطبيق كما سيظهر للمستخدم -->
+                    <key>Minecraft</key>
+                    <string>Minecraft</string> <!-- اسم التطبيق كما سيظهر للمستخدم -->
                 </dict>
             </dict>
         </array>
